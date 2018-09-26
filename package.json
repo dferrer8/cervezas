@@ -1,0 +1,34 @@
+{
+  "name": "cervezasdf8",
+  "version": "1.0.0",
+  "description": "Libreria para obtener de listado de cervezas",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dferrer8/cervezas.git"
+  },
+  "keywords": [
+    "cervezas",
+    "ambar"
+  ],
+  "author": "daviddfg <david.dfg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dferrer8/cervezas/issues"
+  },
+  "homepage": "https://github.com/dferrer8/cervezas#readme",
+  "devDependencies": {
+    "eslint": "^5.6.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+  "dependencies": {
+    "unique-random-array": "^1.0.1"
+  }
+}
