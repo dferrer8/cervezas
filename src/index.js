@@ -4,6 +4,6 @@ const _ = require('lodash')
 
 module.exports = {
   todas: cervezas,
-  todasOrdenadas: _.sortBy(cervezas, [nombre]),
+  todasOrdenadas: _.sortBy(cervezas, ['nombre']),
   alzar: uniqueRandomArray(cervezas)
 }
