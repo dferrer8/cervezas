@@ -1,6 +1,6 @@
 {
   "name": "cervezasdf8",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Libreria para obtener de listado de cervezas",
   "main": "src/index.js",
   "scripts": {
